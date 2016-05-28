@@ -1,0 +1,7 @@
+c:\users\mcanmutaf\documents\visual studio 2015\Projects\AlgorithmsHW2\AlgorithmsHW2\bin\Debug\AlgorithmsHW2.exe.config
+c:\users\mcanmutaf\documents\visual studio 2015\Projects\AlgorithmsHW2\AlgorithmsHW2\bin\Debug\AlgorithmsHW2.exe
+c:\users\mcanmutaf\documents\visual studio 2015\Projects\AlgorithmsHW2\AlgorithmsHW2\bin\Debug\AlgorithmsHW2.pdb
+c:\users\mcanmutaf\documents\visual studio 2015\Projects\AlgorithmsHW2\AlgorithmsHW2\bin\Debug\BilgiKontrolLib.dll
+c:\users\mcanmutaf\documents\visual studio 2015\Projects\AlgorithmsHW2\AlgorithmsHW2\obj\Debug\AlgorithmsHW2.exe
+c:\users\mcanmutaf\documents\visual studio 2015\Projects\AlgorithmsHW2\AlgorithmsHW2\obj\Debug\AlgorithmsHW2.pdb
+C:\Users\mcanmutaf\Documents\Visual Studio 2015\Projects\AlgorithmsHW2\AlgorithmsHW2\obj\Debug\AlgorithmsHW2.csprojResolveAssemblyReference.cache
